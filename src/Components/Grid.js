@@ -1,5 +1,5 @@
 import React, {Component} from "react";
-import {Card,Row,Col,Button,Container, CardColumns, CardDeck} from "react-bootstrap";
+import {Card,Row,Col,Button,Container} from "react-bootstrap";
 import {Ob} from "./Testing";
 
 class gird1 extends Component{
@@ -20,88 +20,7 @@ class gird1 extends Component{
     render(){
         
         return(
-            // <div>
-                
-            //     <Container>
-        
-            //     <Row>
-                        
-            //     {Ob.map(function(val){
-            //     return(
-                
-            //     <Col xs lg="6">
-            //     <Card className=" pad bg-dark text-white">
-            //     <Card.Img src={val.img} alt="Card image" />
-            //     <Card.ImgOverlay>
-            //     <Card.Title>Card title</Card.Title>
-            //     <Button variant="danger">Click here!</Button>
-            //     <div className="textB">
-            //     <Container>
-            //     <Card.Text className="textc">
-            //     {val.Text}
-            //     </Card.Text>
-            //     </Container>
-            //     </div>
-                                                 
-            //     </Card.ImgOverlay>
-            //     </Card>
-            //     </Col>
-            //            )})
-            //     }
-                                        
-            //     </Row>
-            //     </Container>
-                        
-                
-            // </div>
-
-            // <div>
-            //     <Container className="d-flex flex-row flex-column" >
-            //         <Row className="">
-            //         <Col lg="7" sm="6">
-            //         <Container>
-            //     <Card className="pad bl bg-dark text-white">
-            //     <Card.Img src="pc.jpg" alt="Card image" />
-            //     <Card.ImgOverlay>
-            //     <Card.Title>Card title</Card.Title>
-            //     <Button variant="danger">Click here!</Button>
-            //     <div className="textB">
-            //     <Container>
-            //     <Card.Text className="textc">
-            //     "asdasdasdas"
-            //     </Card.Text>
-            //     </Container>
-            //     </div>
-                                                 
-            //      </Card.ImgOverlay>
-            //      </Card>
-            //      </Container>
-            //      </Col>
-                
-            //     <Col lg="4" sm="3" className="">
-            //     <Container className="">
-            //     <Card className="bl pad bg-secondary text-white h-100">
-            //     <Card.Img className="img-responsive" src="cell2.png" alt="Card image" />
-            //     <Card.ImgOverlay>
-            //     <Card.Title>Cell Phones!</Card.Title>
-            //     <Button variant="danger" className="textB">Click here!</Button>
-            //     <div className="textB">
-            //     <Container>
-            //     <Card.Text className="textc">
-            //     "asdasdasdas"
-            //     </Card.Text>
-            //     </Container>
-            //     </div>
-                                                 
-            //      </Card.ImgOverlay>
-            //      </Card>
-            //      </Container>
-            //      </Col>
-                 
-            //      </Row>
-            //     </Container>
-            // </div>
-
+           
            <div>
                <Container className="pad d-flex flex-lg-row flex-column align-items-start justify-content-between">
                    <Row>

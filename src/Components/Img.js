@@ -3,14 +3,7 @@ import {Col, Row,Container} from "react-bootstrap";
 
 var BG = function(){
     return(
-        //  <div className="container">
-        //     <div className="row">
-        //         <div className="col-lg">
-        //         <img src="pc.jpg" alt="pc-source"></img>
-        //         </div>
-         
-        //  </div>
-         
+             
         <Container>
         <Row className="justify-content-md-center">
           <Col xs lg="auto">

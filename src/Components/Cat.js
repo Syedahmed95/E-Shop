@@ -1,5 +1,5 @@
 import React from "react";
-import {Card,Row,Col,Button,Container, CardColumns, CardDeck} from "react-bootstrap";
+import {Card,Row,Col,Container} from "react-bootstrap";
 import {Ob} from "./Testing";
  
 const GIRD = function(){

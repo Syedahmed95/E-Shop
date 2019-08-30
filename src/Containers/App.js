@@ -1,6 +1,5 @@
 import React, {Component} from "react";
 import Nav from "../Components/Navbar";
-import ImgC from "../Components/Img";
 import Card from "../Components/Grid";
 import Slide from "../Components/Slide";
 import Pro from "../Components/Cat";
