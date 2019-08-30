@@ -1,4 +1,5 @@
 body {
+  background-color: black !important;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
     "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
@@ -10,4 +11,97 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
+}
+.Cen{
+  justify-content: center;
+  
+  
+}
+.img-1 {
+  max-height: 200px;
+  min-height: 200px;
+  object-fit: cover;
+}
+.pad{
+  margin-left:25px;
+  margin-top: 25px;
+}
+.slide1{
+  width: 70% !important;
+}
+.bod{
+  border: 5px solid #2063ab !important;
+}
+.textB{
+  position: absolute;
+  bottom: 10px;
+  right: 15px;
+}
+.textc{
+  color: black;
+}
+.bl{
+  padding: 5px;
+  
+}
+.Proh{
+  width: 70% !important;
+  
+}
+.Ih{
+  margin-top: 20px
+}
+.Cpos{
+  border-style: solid;
+  border-width: 5px;
+  border-color: #2063ab; 
+}
+
+@media screen and (max-width: 600px){
+.P2{
+ margin-top:20px !important; 
+}
+.mdiv1{
+  width: 100% !important;
+}
+.Padding1{
+  padding-top: 70px;
+}
+.Colpad{
+  padding-top: 25px;
+}
+}
+
+.midimg{
+  position: relative;
+}
+.mdiv{
+  background-color: #6d9a8ead;
+  width: 400px; 
+  
+  padding-top: 25px
+   
+}
+.Mcontainer{
+  background-color: #0e0d0d54;
+
+}
+.Iconbox{
+    width: 100px;
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.mt{
+ margin-top: 22px;
+}
+.fpic{
+  height: 98px;
+}
+.pc{
+  padding-left: 0 !important;
+  padding-right: 0 !important; 
+}
+.bg-primary1{
+  background-color: #224971 !important;
 }
