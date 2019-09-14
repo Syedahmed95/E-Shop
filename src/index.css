@@ -23,12 +23,15 @@ code {
   object-fit: cover;
 }
 .pad{
-  margin-left:25px;
+  /* margin-left:25px; */
   margin-top: 25px;
 }
-.slide1{
-  width: 70% !important;
+@media screen and (min-width: 893px){
+  .slide1{
+    width: 70% !important;
+  }
 }
+
 .bod{
   border: 5px solid #2063ab !important;
 }
