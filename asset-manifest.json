@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/E-Shop/static/css/main.78b2f535.chunk.css",
+    "main.css": "/E-Shop/static/css/main.f5b8b9ba.chunk.css",
     "main.js": "/E-Shop/static/js/main.f5de1291.chunk.js",
     "main.js.map": "/E-Shop/static/js/main.f5de1291.chunk.js.map",
     "runtime~main.js": "/E-Shop/static/js/runtime~main.9c264d29.js",
@@ -9,9 +9,9 @@
     "static/js/2.25d86b13.chunk.js": "/E-Shop/static/js/2.25d86b13.chunk.js",
     "static/js/2.25d86b13.chunk.js.map": "/E-Shop/static/js/2.25d86b13.chunk.js.map",
     "index.html": "/E-Shop/index.html",
-    "precache-manifest.5af9f4660cea23be9d5c97293e937718.js": "/E-Shop/precache-manifest.5af9f4660cea23be9d5c97293e937718.js",
+    "precache-manifest.616adc96782bb1bd2f1b63f67314d644.js": "/E-Shop/precache-manifest.616adc96782bb1bd2f1b63f67314d644.js",
     "service-worker.js": "/E-Shop/service-worker.js",
     "static/css/2.22a7d4ef.chunk.css.map": "/E-Shop/static/css/2.22a7d4ef.chunk.css.map",
-    "static/css/main.78b2f535.chunk.css.map": "/E-Shop/static/css/main.78b2f535.chunk.css.map"
+    "static/css/main.f5b8b9ba.chunk.css.map": "/E-Shop/static/css/main.f5b8b9ba.chunk.css.map"
   }
 }
